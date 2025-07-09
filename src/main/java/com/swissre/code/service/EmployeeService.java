@@ -104,7 +104,7 @@ public class EmployeeService {
             int lines = countManagerLines(employee);
             if (lines > 4) {
                 employeesWithReportingLinesMoreThan4.append("Employee ").append(employee.getFirstName())
-                        .append(" have reporting line which is too long by ").append(lines - 4).append("/n");
+                        .append(" have reporting line which is too long by ").append(lines - 4).append("\n");
             }
 
         }
