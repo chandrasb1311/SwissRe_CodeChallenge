@@ -23,8 +23,11 @@ Tasks to be achieved:
   1. Reads employee data from a CSV file
   2. Build a managerial hierarchy to identify managers with subordinates
   3. Identify
+     
        a. Managers earning less than 20% more than their subordinates’ average, and by how much.
+     
        b. Managers earning more than 50% more, and by how much.
+     
        c. Employees with more than 4 managers between them and the CEO, and by how many extra levels.
   5. Print the resulting output to the console.
 
