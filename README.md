@@ -6,12 +6,17 @@ Problem Statement:
   2. The company wants to avoid too long reporting lines; therefore, we would like to identify all employees who have more than 4 managers between them and the CEO.
 
 Sample Employee data:
+
   Id,firstName,lastName,salary,managerId
   
   123,Joe,Doe,60000,
+  
   124,Martin,Chekov,45000,123
+  
   125,Bob,Ronstad,47000,123
+  
   300,Alice,Hasacat,50000,124
+  
   305,Brett,Hardleaf,34000,300
 
 Tasks to be achieved:
