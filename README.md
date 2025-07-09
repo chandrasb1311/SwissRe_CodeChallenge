@@ -1,4 +1,4 @@
-                                                                                      Employee Organization Check
+                                                    Employee Organization Check
 
 Problem Statement:
   From the given list of employee data, make sure that 
